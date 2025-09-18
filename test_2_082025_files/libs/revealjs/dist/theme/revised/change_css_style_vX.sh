@@ -20,13 +20,11 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
   # macOS
   sed -i '' \
     -e 's/--r-heading-color: #222;/--r-heading-color: #2a76dd;/g' \
-    -e 's/color:var(--r-heading-color)/color: #2a76dd/g' \
     "$FILE"
 else
   # Linux
   sed -i \
     -e 's/--r-heading-color: #222;/--r-heading-color: #2a76dd;/g' \
-    -e 's/color:var(--r-heading-color)/color: #2a76dd/g' \
     "$FILE"
 fi
 

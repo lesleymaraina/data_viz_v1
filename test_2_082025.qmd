@@ -17,9 +17,25 @@ format:
 
 ## Course Overview
 
+**Part 1**: High Level Overview of Data Visualization in Biomedical and Clinical Research
+
 ::: incremental
 -  Foundations of data visualization within biomedical research
 - Visualizing Categorical and Numerical Clinical and Biomedical Data
+
+:::
+
+
+::: footer
+
+:::
+
+
+## Course Overview
+
+**Part 2**: Data Visualization Implementation
+
+::: incremental
 - Interactive Dashboards and Exploratory Analysis for Health Data
 - Communicating and Evaluating Clinical and Biomedical Visualizations
 
@@ -28,6 +44,56 @@ format:
 
 ::: footer
 
+:::
+
+
+## Course Overview
+
+
+::: columns
+::: {.column width="70%"}
+![](images/course_overview_1.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+:::
+::: footer
+:::
+
+## Course Overview
+
+
+::: columns
+::: {.column width="70%"}
+![](images/course_overview_2.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+:::
+::: footer
+:::
+
+
+## Course Overview
+
+
+::: columns
+::: {.column width="70%"}
+![](images/course_overview_3.png){.border .border-thick}
+:::
+
+::: {.column width="30%"}
+
+:::
+
+:::
+::: footer
 :::
 
 
