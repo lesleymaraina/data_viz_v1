@@ -97,84 +97,37 @@ format:
 :::
 
 
-##
-
-“A good sketch is better than a long speech” <br>
-Napoleon Bonaparte
 
 
-
-## Why Data Visualization Matters in Clinical and Biomedical Research?
+## <span style="font-size:80%">Why Data Visualization Matters in Clinical and Biomedical Research?</span> {.smaller}
 
 <br>
-Turning Complexity into Clarity
+**Turning Complexity into Clarity**
+
 
 ::: incremental
--  Biomedical research produces massive, multidimensional datasets (genomics, imaging, electronic health records, clinical trials)
--  Raw tables or statistics are often too overwhelming. Visualization reduces complexity and highlights patterns, trends, and anomalies
+- Biomedical research produces massive, multidimensional datasets (genomics, imaging, electronic health records, clinical trials)
+- Raw tables or statistics are often too overwhelming. Visualization reduces complexity and highlights patterns, trends, and anomalies
+- Presenting data correctly can help save lives 
+
+
 :::
 
 
 ::: footer
 :::
 
+## <span style="font-size:80%">Why Data Visualization Matters in Clinical and Biomedical Research?</span> {.smaller}
 
-## <span style="font-size:80%">Data Visualization in Biomedical and Clinical Research</span> {.smaller}
-
-
-::: columns
-::: {.column width="50%"}
-![](images/heatmap_cells_1.png){.border .border-thick}
-:::
-
-::: {.column width="50%"}
-
-:::
-<span style="font-size:60%">Liu, C.C., et al. (2023). Nature Communications</span>
-:::
-::: footer
-:::
-
-
-
-## <span style="font-size:80%">Data Visualization in Biomedical and Clinical Research</span> {.smaller}
-
-
-::: columns
-::: {.column width="90%"}
-![](images/heatmap_cells_2.png){.border .border-thick}
-:::
-
-::: {.column width="50%"}
-
-:::
-<span style="font-size:60%">Liu, C.C., et al. (2023). Nature Communications</span>
-:::
-::: footer
-:::
-
-## <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
-<br>
 <br>
 **Turning Complexity into Clarity**
-<br>
 
-
-
-::: footer
-:::
-
-
-## <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
-<br>
-<br>
-**Turning Complexity into Clarity**
-<br>
 **Facilitating Discovery**
+
 
 ::: incremental
--  Plots can reveal relationships that aren’t obvious in numbers:
-- Clinical Example: visualizations help detect outliers, biases, or early warning signals of treatment effects.
+- Plots can reveal relationships that aren’t obvious in numbers
+- Clinical Example: visualizations help detect outliers, biases, or early warning signals of treatment effects
 
 :::
 
@@ -183,13 +136,14 @@ Turning Complexity into Clarity
 :::
 
 
-## <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
-<br>
+
+## <span style="font-size:80%">Why Data Visualization Matters in Clinical and Biomedical Research?</span> {.smaller}
+
 <br>
 **Turning Complexity into Clarity**
-<br>
+
 **Facilitating Discovery**
-<br>
+
 **Improving Communication Across Disciplines**
 
 ::: incremental
@@ -197,510 +151,284 @@ Turning Complexity into Clarity
 - A clear figure (Kaplan–Meier survival curve, forest plot, heatmap, dashboard chart) can communicate results instantly across audiences
 :::
 
-
 ::: footer
 :::
 
 
-##  <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
+## <span style="font-size:80%">Why Data Visualization Matters in Clinical and Biomedical Research?</span> {.smaller}
 
-<br>
-
-::: columns
-::: {.column width="50%"}
-- **Turning Complexity into Clarity**
-<br>
-- **Facilitating Discovery**
-<br>
-- **Improving Communication Across Disciplines**
-<br>
-
-
-
-:::
-
-::: {.column width="50%"}
-![](images/treatment_survival_curve_1.png){.border .border-thick}
-:::
-:::
-
-::: footer
-:::
-
-
-##  <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
-
-<br>
-
-::: columns
-::: {.column width="30%"}
-- **Turning Complexity into Clarity**
-<br>
-- **Facilitating Discovery**
-<br>
-- **Improving Communication Across Disciplines**
-<br>
-
-
-:::
-
-::: {.column width="70%"}
-![](images/treatment_survival_curve_2.png){.border .border-thick}
-:::
-:::
-
-::: footer
-:::
-
-
-
-## <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
-<br>
 <br>
 **Turning Complexity into Clarity**
-<br>
+
 **Facilitating Discovery**
-<br>
+
 **Improving Communication Across Disciplines**
-<br>
-**Patient-Centered Decision Making**
+
+**Supporting Reproducibility and Trust**
 
 ::: incremental
-- Clinicians increasingly use visual tools (dashboards, risk charts, predictive plots) to guide patient care.
-- For example: visualizing risk scores, lab trends, or treatment outcomes 
+- Transparent figures allow others to verify results and see how conclusions were drawn
+- Poor or misleading visualizations (e.g., truncated axes, exaggerated differences) have historically misinformed clinical practice
 
 :::
-
 
 ::: footer
 :::
-
 
 
 ## <span style="font-size:80%">Data Visualization in Biomedical and Clinical Research</span> {.smaller}
 
 
 ::: columns
+::: {.column width="50%"}
+![](images/big_data_health.png){.border .border-thick}
+:::
+
+::: {.column width="50%"}
+
+:::
+<span style="font-size:60%">Batko, K., et al. (2022). J. Big Data.</span>
+:::
+::: footer
+:::
+
+## <span style="font-size:80%">Data visualization can save lives and reduce cost</span> {.smaller}
+
+
+
+<br>
+Effective dashboards lead to significant positive improvements in outcomes. For example, some reductions in mortality, costs, and length of stay in multiple studies 
+
+
+::: incremental
+- 73% reduction for 30-day mortality rate [Zygourakis, C., et. al (2017). JAMA Surgery]
+- Patient length of stay in hospital, a proxy for service quality and effectiveness, was reduced [Jung, A., et. al. (2018). Journal of Surgical Research.]
+
+:::
+
+::: footer
+:::
+
+
+
+
+## <span style="font-size:80%">Data visualization can save lives and reduce cost</span> {.smaller}
+
+
+<br>
+Data visualizations reduce hospital costs
+
+
+::: incremental
+- Cost reductions ranged from \$160000 (USD) in annual hospital operating room expenditure for gastric bypass surgeries to$10.7 million (USD) in the cost of total knee surgery in another hospitals [Rocchio, BJ. (2016)]
+
+:::
+
+::: footer
+:::
+
+
+
+## <span style="font-size:80%">Harms of poor data visualization</span> {.smaller}
+
+
+
+:::
+
+::: footer
+:::
+
+
+## <span style="font-size:80%">Harms of poor data visualization</span> {.smaller}
+
+
+::: columns
+::: {.column width="30%"}
+![](images/shuttle.jpg){.border .border-thick}
+:::
+
+::: {.column width="70%"}
+**Space Shuttle Challenger (1986)**: 
+
+Decision-makers were shown unsorted tables/poor charts that hid the strong link between cold temperature and O-ring damage
+
+:::
+
+:::
+::: footer
+:::
+
+
+## <span style="font-size:80%">Harms of poor data visualization</span> {.smaller}
+
+
+::: columns
+::: {.column width="50%"}
+![](images/columbia.jpg){.border .border-thick}
+:::
+
+::: {.column width="50%"}
+**Space Shuttle Columbia (2003)**: 
+
+Accident Investigation Board criticized NASA’s reliance on dense PowerPoint slides that downplayed uncertainty about wing damage 
+
+:::
+
+:::
+::: footer
+:::
+
+
+
+## <span style="font-size:80%">Harms of poor data visualization</span> {.smaller}
+
+
+::: columns
 ::: {.column width="90%"}
-![](images/dashboard.jpg){.border .border-thick}
+![](images/neural_net_self.png){.border .border-thick}
 :::
 
 ::: {.column width="10%"}
 
+
 :::
-<span style="font-size:60%">Elshehaly, M., et al. (2021). NIEEE Trans Vis Comput Graph</span>
+<span style="font-size:60%">Atharva. (2022). Medium.</span>
 :::
 ::: footer
 :::
 
 
-## <span style="font-size:60%">Why Data Visualization Matters in Clinical and Biomedical Research? </span> {.smaller}
-<br>
-<br>
+## <span style="font-size:80%">Harms of poor data visualization</span> {.smaller}
 
-**Supporting Reproducibility and Trust**
-
-::: incremental
-- Transparent figures allow others to verify results and see how conclusions were drawn.
-- Poor or misleading visualizations (e.g., truncated axes, exaggerated differences) have historically misinformed clinical practice.
-
-:::
-
-
-::: footer
-:::
-
-## <span style="font-size:60%">Summary </span> {.smaller}
-<br>
-<br>
-
-::: incremental
-- Data visualization is a critical tool for discovery, decision-making, communication, reproducibility, and policy change
-- **Turning Complexity into Clarity**: Visualizations simplify large, multidimensional biomedical datasets
-(e.g., genomics, EHRs, trials)
-- **Facilitating Discovery**: Helps detect trends, outliers, biases, and potential biomarkers (e.g., heatmaps, pixel-level clustering)
-- **Improving Communication**: Clear visuals (survival curves, dashboards, forest plots) bridge gaps between
-researchers, clinicians, patients, and policymakers
-- **Patient-Centered Decision Making**: Dashboards and risk charts guide care by visualizing lab trends, outcomes, and treatment risks
-- **Reproducibility & Trust**: Transparent, accurate figures enable verification of results and prevent misinterpretation
-
- 
-
-:::
-
-
-::: footer
-:::
-
-## <span style="font-size:60%"> </span> {.smaller}
-<br>
-<br>
-
-
-
-
-
-
-
-::: footer
-:::
-
-
-
-
-
-## 
-<br>
-<br>
-**Turning Complexity into Clarity**
-<br>
-**Facilitating Discovery**
-<br>
-**Improving Communication Across Disciplines**
-<br>
-::: incremental
--  Researchers, clinicians, patients, and policymakers need to interpret findings
-- A clear figure (Kaplan–Meier survival curve, forest plot, heatmap, dashboard chart) can communicate results instantly across audiences
-
-
-:::
-
-
-::: footer
-:::
-
-
-
-
-
-
-## Authoring Tools {.smaller}
-
-Live side-by-side preview for any notebook or text editor including Jupyter and VS Code
 
 ::: columns
 ::: {.column width="50%"}
-![](images/heatmap_cells_1.png){.border .border-thick}
+![](images/self_driving_car.png){.border .border-thick}
 :::
 
 ::: {.column width="50%"}
-![](images/jupyter-preview.png){.border .border-thick}
-:::
-:::
-
-::: footer
-
-:::
-
-
-
-## Data Visualization in Biomedical and Clinical Research
-
-
-<br>
-Turning Complexity into Clarity
+**Uber autonomous vehicle fatality**
 
 ::: incremental
--   Biomedical research produces massive, multidimensional datasets (genomics, imaging, electronic health records, clinical trials)
--  Raw tables or statistics are often too overwhelming. Visualization reduces complexity and highlights patterns, trends, and anomalies
+The National Transportation Safety Board (NTSB) found the system detected the pedestrian but the human machine interface dashboard did not present the correct data to prevent the intervention in time resulting in 1 death
+
 :::
 
+
+
+:::
+<span style="font-size:60%">Smiley, L. (2023). Wired.</span>
+:::
+::: footer
+:::
+
+
+
+
+## <span style="font-size:80%">Incorrect charts lead to poor interpretations</span> {.smaller}
+
+<br>
+
+Survey of 3387 articles in 15 high-profile journals showed errors in data visualization > downstream error
+
+::: incremental
+- Data visualization general errors in published scientific literature:
+- Oversimplified charts
+- Plot contradictions with data source and accompanying tables
+- Numeric distortion [axes and labels] 
+
+
+:::
 
 ::: footer
 :::
 
 
-## Authoring Tools {.smaller}
 
-Live side-by-side preview for any notebook or text editor including Jupyter and VS Code
+## <span style="font-size:80%">Prevalence of data distortion in bar graphs</span> {.smaller}
+
 
 ::: columns
 ::: {.column width="50%"}
-![](images/jupyter-edit.png){.border .border-thick}
+![](images/Biorxiv_dataviz_mistakes_1.png){.border .border-thick}
 :::
 
 ::: {.column width="50%"}
-![](images/jupyter-preview.png){.border .border-thick}
-:::
-:::
-
-::: footer
-Learn more: [Jupyter](https://{{< meta prerelease-subdomain >}}quarto.org/docs/tools/jupyter-lab.html), [VS Code](https://{{< meta prerelease-subdomain >}}quarto.org/docs/tools/vscode.html), [Text Editors](https://{{< meta prerelease-subdomain >}}quarto.org/docs/tools/text-editors.html)
-:::
-
-
-
-## Incremental Lists
-
-Lists can optionally be displayed incrementally:
+Survey of 3387 articles in 15 high-profile journals showed errors in data visualization $\rightarrow$ downstream error
 
 ::: incremental
--   First item
--   Second item
--   Third item
+- Bars that don’t start the y-axis at zero 
+- Bars drawn on logarithmic axes (or from log-transformed data) that lack a meaningful zero baseline
+  - Log-scale increase distortion
 :::
 
+
+
+:::
+<span style="font-size:60%">Smiley, L. (2023). Wired.</span>
+:::
 ::: footer
-Learn more: [Incremental Lists](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/#incremental-lists)
 :::
 
 
+## <span style="font-size:80%">Prevalence of data distortion in bar graphs</span> {.smaller}
 
 
-
-## Bullets
-
-When you click the **Render** button a document will be generated that includes:
-
--   Content authored with markdown
--   Output from executable code
-
-## Code
-
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-#| echo: true  # show code
-#| eval: true   # run code
-#| warning: false
-#| message: false
-1 + 1
-```
-
-## Chalkboard {chalkboard-buttons="true"}
-
-::: {style="margin-bottom: 0.9em;"}
-Free form drawing and slide annotations
+::: columns
+::: {.column width="50%"}
+![](images/plot_misuse.png){.border .border-thick}
 :::
 
-::: {layout="[1, 20]"}
-![](images/presentation-chalkboard.png){width="41"}
-
-Use the chalkboard button at the bottom left of the slide to toggle the chalkboard.
-:::
-
-::: {layout="[1, 20]"}
-![](images/presentation-notes-canvas.png){width="41"}
-
-Use the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.
-:::
-
-You can also press {{< kbd b >}} to toggle the chalkboard or {{< kbd c >}} to toggle the notes canvas.
-
-::: footer
-Learn more: [Chalkboard](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/presenting.html#chalkboard)
-:::
-
-## Python {.smaller}
-
-```{python}
-#%pip install jupyter
-#%pip install matplotlib
-#%pip install numpy
-
-#| code-line-numbers: "|6|9"
-#| echo: true
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-
-::: footer
-Learn more: [Quarto Presentations](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/)
-:::
-
-## Line Highlighting {background="#0A6D96"}
-
--   Highlight specific lines for emphasis
--   Incrementally highlight additional lines
-
-```{python}
-#| echo: true            # show code
-#| eval: true            # run code
-#| code-line-numbers: "4-5|7|10"   # highlight lines in the slide
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-
-::: footer
-Learn more: [Line Highlighting](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/#line-highlighting)
-:::
-
-## Tabsets {.smaller .scrollable transition="slide"}
-
-::: panel-tabset
-### Plot
-
-```{r}
-library(ggplot2)
-ggplot(mtcars, aes(hp, mpg, color = am)) +
-  geom_point() +
-  geom_smooth(formula = y ~ x, method = "loess")
-```
-
-### Data
-
-```{r}
-# You can use this function to convert an imported table in the same format
-knitr::kable(mtcars) 
-```
-:::
-
-::: footer
-Learn more: [Tabsets](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/#tabsets)
-:::
-
-## Line Highlighting (Side-by-Side)
-
-::::: columns
-::: column
-###  
-
-###  
-
-```{python}
-#| echo: true
-#| eval: false   # only show the code, don’t run here
-#| code-line-numbers: "4-5|7|10"
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-:::
-
-::: column
-```{python}
-#| echo: false
-#| fig-width: 50
-#| fig-height: 50
-
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-:::
-:::::
-
-## LaTeX Equations
-
-[MathJax](https://www.mathjax.org/) rendering of equations to HTML
-
-::::: columns
-::: {.column width="40%"}
-``` tex
-\begin{gather*}
-a_1=b_1+c_1\\
-a_2=b_2+c_2-d_2+e_2
-\end{gather*}
-
-\begin{align}
-a_{11}& =b_{11}&
-  a_{12}& =b_{12}\\
-a_{21}& =b_{21}&
-  a_{22}& =b_{22}+c_{22}
-\end{align}
-```
-:::
-
-::: {.column width="60%"}
-\begin{gather*}
-a_1=b_1+c_1\\
-a_2=b_2+c_2-d_2+e_2
-\end{gather*} \begin{align}
-a_{11}& =b_{11}&
-  a_{12}& =b_{12}\\
-a_{21}& =b_{21}&
-  a_{22}& =b_{22}+c_{22}
-\end{align}
-:::
-:::::
-
-::: footer
-Learn more: [LaTeX Equations](https://{{< meta prerelease-subdomain >}}quarto.org/docs/authoring/markdown-basics.html#equations)
-:::
-
-## Incremental Lists
-
-Lists can optionally be displayed incrementally:
+::: {.column width="50%"}
+Survey of 227,998 PubMed Central papers across 23 fields
 
 ::: incremental
--   First item
--   Second item
--   Third item
+- Misuse of bar graphs for continuous data presentation
+- Error bars conceals distributional shape and outliers
+- Presenting data with negative values using plots that start at zero-baseline
+
 :::
 
-. . .
-
-<br/> Insert pauses to make other types of content display incrementally.
-
+:::
+<span style="font-size:60%">Riedel, N., et. al. (2022) Clin Sci (Lond).</span>
+:::
 ::: footer
-Learn more: [Incremental Lists](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/#incremental-lists)
 :::
 
-## Fragments
 
-Incremental text display and animation with fragments:
 
-<br/>
 
-::: {.fragment .fade-in}
-Fade in
+## <span style="font-size:80%">Review</span> {.smaller}
+
+
+::: columns
+::: {.column width="50%"}
+
 :::
 
-::: {.fragment .fade-up}
-Slide up while fading in
+::: {.column width="90%"}
+
+
+::: incremental
+Recap: Why data visualization matters
+
+- In biomedical/clinical work, visualizations turn: 
+  - high-dimensional data into insight—supporting discovery
+  - clearer cross-disciplinary communication (e.g.,heatmaps, dashboards)
+  - Potential for transparency/reproducibility
+  
+- Potential to save lives and reduce cost
+  - clinical dashboards were associated with improved outcomes
+
+- Ineffective data visualizations can distort meaning and can contribute to harmful decisions
+
 :::
 
-::: {.fragment .fade-left}
-Slide left while fading in
 :::
 
-::: {.fragment .fade-in-then-semi-out}
-Fade in then semi out
 :::
-
-. . .
-
-::: {.fragment .strike}
-Strike
-:::
-
-::: {.fragment .highlight-red}
-Highlight red
-:::
-
 ::: footer
-Learn more: [Fragments](https://{{< meta prerelease-subdomain >}}quarto.org/docs/presentations/revealjs/advanced.html#fragments)
 :::
+
+
+
